@@ -1,0 +1,37 @@
+header 
+{
+	background-color : darkgreen;
+	box-shadow : 0 20px 20px silver;
+}
+h1
+{
+	text-align : center ;
+	padding : 15px;
+	color : silver;
+	text-shadow : 0px 2px 2px lightgreen;
+}
+p
+{ 
+   text-align : center;
+   font-variant : small-caps ; 
+   font-size : 1cm;
+   font-weight : bold;
+   opacity : 0.4;
+}
+#flag 
+{
+	height : 128px;
+	width : 256px;
+	background-image : url("file:///C:/Users/nassism/Downloads/flag.webp");
+	background-repeat : no-repeat ; 
+}
+#flag:hover
+{
+    background-position : 0PX -143px;
+	
+}
+.address 
+{
+	text-align : right;
+	margin-top : 90px;
+}

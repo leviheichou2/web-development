@@ -1,0 +1,36 @@
+nav
+{
+	background-color : #F0F0F0;
+    padding : 10px 30% 10px 40%;
+   	border-radius : 5px;   
+}
+
+.container 
+{
+	background-color : white;
+	width : auto;
+	height : auto;
+	padding : 20px;
+	margin : 30px;
+	border : 2px solid black ;
+}
+#subcontainer 
+{
+	background-color : aqua ;
+	padding : 30px;
+	margin : 10px;
+	border : 1px solid red;
+	border-radius : 5px;
+}
+#inner 
+{
+    background-color : white ;
+    padding : 10px 30% 10px 40% ;	
+}
+.outer
+{
+    background-color : #f30;
+    padding : 0px 30% 0px 40%;	
+	margin : 10px 40px 10px 40px;
+	border-radius : 10px;
+}

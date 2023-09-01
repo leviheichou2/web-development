@@ -1,0 +1,40 @@
+header 
+{
+	color : blue ;
+	font-weight : bold;
+	background-color : #F90;
+	margin-top : 30px ;
+	margin-right : 50px;
+	margin-bottom : 30px;
+	margin-left : 50px;
+	padding-top : 30px;
+	padding-right : 30px;
+	padding-bottom : 30px;
+	padding-left : 30px;
+	text-align : center ;
+}
+/*this is the styling for the header area */
+
+p
+{
+	font-weight : bold ;
+	font-size : 20px;
+	color: rgb(50,111,255);
+	margin : 50px;
+	padding : 20px;
+	background-color : violet;
+	text-align : center;
+}
+/*this is the styling for the paragraph element */
+
+.box
+{
+	background-color : aqua;
+	height: 200px;
+	width : 200px;
+	border : 4px inset red;
+	margin-left : 40%;
+	margin-right : 50%
+}
+/*this is the styling for the box element */
+

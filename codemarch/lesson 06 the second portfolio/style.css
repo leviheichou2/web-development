@@ -1,0 +1,47 @@
+body {
+	background-color : #F0F8FF 
+	}
+	
+header {
+	    background-color : white;
+        border : 1px solid ;	
+       }	
+
+.title {
+	         text-align : center			
+            }
+			
+nav {
+	font-family : courier;
+	font-weight : bold;
+	background-color : aqua;
+    color : blue ;
+	border : 1px solid;
+    }
+	   	
+article {
+font-family : courier ;
+
+        }
+	
+.container {
+	        display : flex;
+			flex : 100;
+           }
+		   
+.aside {
+        flex-grow : 1 ;
+        background-color : #f0f0f0;
+        padding : 30px;
+		     }
+
+.section {
+          flex-shrink: 0;
+          background-color : #ddd;
+          padding : 20px;
+         }		  
+
+.dir {
+     display : block;
+     padding : 10px;	 
+	 }

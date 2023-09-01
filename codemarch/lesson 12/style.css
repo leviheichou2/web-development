@@ -1,0 +1,82 @@
+header 
+{
+    background-color : #e6f2ff;
+}
+
+[class*="fa-solid fa-user"]
+{
+	margin-left : 49%;
+	margin-top : 10px;
+	margin-bottom : 1px;
+	font-size : 30px;
+}
+h1
+{
+	text-align : center ;
+    font-family  : courier, sans-serif;	
+	font-weight: bolder;
+	border-radius : 10px;
+}
+nav
+{
+	padding-left : 35%;
+}
+
+ul
+{ 
+    list-style : none;
+	display : flex;
+}
+li 
+{
+	padding-right : 2px;
+	padding-left : 2px;
+	margin-right : 20px;
+	cursor : pointer ;
+
+}
+li:hover 
+{
+	background-color : #F0F8FF;
+}
+h2
+{ 
+    font-size : 20px;
+	text-align : center ;
+	color : purple;
+}
+
+.parent
+{
+	font-size : 20px; 
+    text-transform : capitalize;
+	border: 2px solid black;
+	border-radius : 10px;
+	background-color : #e6f2ff;
+	border-top : none;
+	
+}
+.child
+{
+	font-size : 1.5em; 
+	font-variant : small-caps ;
+	text-align : justify;
+	text-indent : 2cm;
+	cursor : help;
+	text-transform : none !important;
+	background-color : #F0F8FF;
+	border: 2px solid black;
+	border-top : none;
+	margin : 10px;
+	padding: 10px;
+	border-radius : 10px
+}
+div 
+{
+	text-align : right;
+	margin-top : 90px;
+}
+a 
+{
+		text-decoration-line : none;
+}

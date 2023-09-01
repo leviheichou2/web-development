@@ -1,0 +1,79 @@
+header
+{
+	padding : 20px;
+    background: linear-gradient(to right,#0D3849, rgb(200,255,200));
+	margin-bottom : 0;
+	color : white;
+	box-shadow : 0 20px 20px silver;
+}
+h1
+{
+	text-align: center ;
+	text-shadow : 0px 2px 3px blue;
+}
+#list
+{
+	font-weight  : bolder ;
+	text-transform : capitalize ;
+}
+ul 
+{
+	
+	margin-top : 0;
+	list-style-type : upper-roman;
+	padding-left : 60px;
+	background-color : white;
+	box-shadow : 0 10px 20px silver;
+}
+li 
+{
+	padding : 5px;
+	font-family : courier;
+	color : gray;
+	font-weight : bold ;
+	font-size : 20px;
+	font-variant : small-caps ;
+}
+table,th,td
+{
+	border: 2px solid black;
+	border-collapse : collapse ;
+	padding : 10px;
+	text-align : center ;
+	
+}
+table {
+	width : 100%;
+	border-radius : 10px;	
+}
+.table 
+{
+	margin-top : 30px;
+	box-shadow : 0 20px 20px silver;
+}
+#tablee
+{
+	padding-left : 30px;
+	text-transform : capitalize ;
+}
+th 
+{
+	font-weight : bolder ;
+	background: var(--first-color);
+	color : white;
+}
+.address 
+{
+	margin-top : 30px;
+	padding : 20px;
+	color : white ;
+	text-shadow : 0px 2px 3px blue;
+	text-align : center ;
+	font-size : 30px;
+	font-weight : bold;
+	background: linear-gradient(to right,#0D3849, rgb(200,255,200));
+}
+:root 
+{
+	--first-color :  #0D3849;
+}
